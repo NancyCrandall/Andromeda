@@ -6,4 +6,4 @@ Elements of this basic site is:
 *Flexslider
 *Contact Page (coming soon) 
 *About Page (coming soon)
-*
+
